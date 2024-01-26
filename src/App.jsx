@@ -1,6 +1,6 @@
 import React from 'react'
 import Layout from './components/Layout.jsx'
-import TodoContent from './components/TodoContent.jsx'
+import TodoContent from './components/TodoList.jsx'
 
 function App() {
   

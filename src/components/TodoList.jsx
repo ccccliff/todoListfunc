@@ -1,6 +1,6 @@
 import {  useState } from "react"
 import TodoBox from "./TodoBox";
-import Inputs from './Inputs.jsx'
+import Inputs from './InputArea.jsx'
 
 function Todocontent() {
   const [todos,setTodos] = useState([]);
